@@ -1,0 +1,14 @@
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/bin/Debug/net9.0/DecoratorPattern
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/bin/Debug/net9.0/DecoratorPattern.deps.json
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/bin/Debug/net9.0/DecoratorPattern.runtimeconfig.json
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/bin/Debug/net9.0/DecoratorPattern.dll
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/bin/Debug/net9.0/DecoratorPattern.pdb
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/obj/Debug/net9.0/DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/obj/Debug/net9.0/DecoratorPattern.AssemblyInfoInputs.cache
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/obj/Debug/net9.0/DecoratorPattern.AssemblyInfo.cs
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/obj/Debug/net9.0/DecoratorPattern.csproj.CoreCompileInputs.cache
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/obj/Debug/net9.0/DecoratorPattern.dll
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/obj/Debug/net9.0/refint/DecoratorPattern.dll
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/obj/Debug/net9.0/DecoratorPattern.pdb
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/obj/Debug/net9.0/DecoratorPattern.genruntimeconfig.cache
+/Users/eduard/Wokspace/Amdaris/StructuralPattern/DecoratorPattern/obj/Debug/net9.0/ref/DecoratorPattern.dll
